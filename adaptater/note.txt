@@ -1,0 +1,4 @@
+<?php 
+
+
+echo 'http://www.croes.org/gerald/blog/adaptateur-adaptater-en-php/31/s';
